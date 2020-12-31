@@ -2,10 +2,10 @@
 ## Use Case Diagram
 * Cliente
 
-![Client](https://raw.githubusercontent.com/Diego-Mignani/imgdatabase/main/Client.jpg?token=AR2C3IG4SRHUM7NTYSEPN2275WVYU)
+![](https://raw.githubusercontent.com/Diego-Mignani/imgdatabase/main/Client.jpg?token=AR2C3IG4SRHUM7NTYSEPN2275WVYU)
 + Proprietario
 
-![Owner](https://raw.githubusercontent.com/Diego-Mignani/imgdatabase/main/Owner.jpg?token=AR2C3IGAINMQN5V662KLZVK75WV2E)
+![](https://raw.githubusercontent.com/Diego-Mignani/imgdatabase/main/Owner.jpg?token=AR2C3IGAINMQN5V662KLZVK75WV2E)
 ***
 ## Use Class Diagram
 
